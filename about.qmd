@@ -12,7 +12,7 @@ My interests in transportation extend beyond my work. I am an avid cyclist and p
 
 Learn more about how I think about AVs and the future of transportation in the video below:
 
-{{< video https://player.vimeo.com/video/727232863?h=ca6c6e8403&amp >}}
+{{< video https://player.vimeo.com/video/727232863 >}}
 
 <!-- ::: {style="padding:56.25% 0 0 0;position:relative;"} -->
 
@@ -49,25 +49,9 @@ Learn more about how I think about AVs and the future of transportation in the v
 
 <ul>
 
--   PhD in Systems Engineering, <br>
+-   PhD in Systems Engineering, The George Washington University
 
-    <p class="grad-location">
-
-    The George Washington University
-
-    </p>
-
-    </li>
-
--   B.S. in Chemical Engineering, <br>
-
-    <p class="grad-location">
-
-    The University of Arizona
-
-    </p>
-
-    </li>
+-   B.S. in Chemical Engineering, The University of Arizona
 
 </ul>
 
