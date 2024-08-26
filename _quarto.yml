@@ -34,7 +34,7 @@ website:
   title: "Leah Kaplan"
   description: >
     Personal website for Leah Kaplan.
-  favicon: figs/favicon.ico
+  favicon: images/favicon.ico
   back-to-top-navigation: true
   search:
     location: navbar
@@ -48,9 +48,6 @@ website:
       - icon: file-bar-graph
         href: research.qmd
         text: "Research"     
-      - icon: file-text
-        href: blog.qmd
-        text: "Blog"
       - icon: person-circle
         href: CV.pdf
         text: "CV"
