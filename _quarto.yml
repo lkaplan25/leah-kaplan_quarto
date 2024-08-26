@@ -1,0 +1,65 @@
+page-layout: article
+
+project:
+  type: website
+
+format:
+  html:
+    toc: true
+    toc-depth: 5
+    toc-location: right
+    lightbox: true
+    theme: [united, theme.scss]
+    css: styles.css
+    self-contained: true
+    link-external-newwindow: true
+    link-external-icon: false
+    backgroundcolor: "#F8F7F0"
+
+knitr: 
+  opts_chunk: 
+    comment: "#>"
+    fig.align: "center"
+    fig.show: "hold"
+    fig.asp: 0.618
+    fig.retna: 3
+    fig.path: figs/
+    out.width: 80%
+
+execute:
+  freeze: false
+  warning: false
+
+website:
+  title: "Pingfan Hu"
+  description: >
+    If you are interested in EVs and renewable energy, please
+    check out my website. It contains projects and blogs that
+    well demonstrate these topics.
+  favicon: figs/favicon.ico
+  back-to-top-navigation: true
+  search:
+    location: navbar
+    type: textbox
+    copy-button: true
+  navbar:
+    left:
+      - icon: person-badge
+        href: about.qmd
+        text: "About"
+      - icon: file-text
+        href: blogs.qmd
+        text: "Blogs"
+      - icon: file-bar-graph
+        href: projects.qmd
+        text: "Projects"
+      - icon: person-circle
+        href: resume.pdf
+        text: "Resume"
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/pingfan/
+      - icon: github
+        href: https://github.com/pingfan-hu
+      - icon: envelope-at
+        href: mailto:pingfan.hu@gwu.edu
