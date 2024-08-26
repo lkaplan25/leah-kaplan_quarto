@@ -32,8 +32,7 @@ execute:
 
 website:
   title: "Leah Kaplan"
-  description: >
-    Personal website for Leah Kaplan.
+  description: "The personal website of Leah Kaplan"
   favicon: images/favicon.ico
   back-to-top-navigation: true
   search:
@@ -53,7 +52,7 @@ website:
         text: "CV"
     right:
       - icon: linkedin
-        href: www.linkedin.com/in/leah-kaplan
+        href: https://www.linkedin.com/in/leah-kaplan
       - icon: twitter
         href: https://twitter.com/kap_leah
       - icon: github

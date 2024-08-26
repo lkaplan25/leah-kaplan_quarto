@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: a30aaa55-220c-40d2-8386-003f2b5d02aa
+      url: 'https://silver-faloodeh-eea80a.netlify.app'
