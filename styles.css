@@ -1,8 +1,8 @@
 /* Blockquote */
 blockquote {
-  background-color: #DDDCEC;
+  background-color: #f2f6f9;
   padding: 10px;
-  border-color: #5654A2;
+  border-color: #4b9be8;
   border-radius: 5px;
 }
 
@@ -11,16 +11,16 @@ table {
   width: auto !important;
 }
 thead {
-  border-top: solid #E5DFD5;
-  border-bottom: solid #E5DFD5;
+  border-top: solid #f2f6f9;
+  border-bottom: solid #f2f6f9;
 }
 
 /* Highlight Color */
 ::selection {
-  background-color: #D6C2DD !important;
-  color: #694696 !important;
+  background-color: #f2f6f9 !important;
+  color: #4b9be8 !important;
 }
 ::-moz-selection {
-  background-color: #D6C2DD !important;
-  color: #694696 !important;
+  background-color: #f2f6f9 !important;
+  color: #4b9be8 !important;
 }

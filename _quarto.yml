@@ -9,12 +9,12 @@ format:
     toc-depth: 5
     toc-location: right
     lightbox: true
-    theme: [united, theme.scss]
+    theme: [sandstone, theme.scss]
     css: styles.css
     self-contained: true
     link-external-newwindow: true
     link-external-icon: false
-    backgroundcolor: "#F8F7F0"
+    backgroundcolor: "#f2f6f9"
 
 knitr: 
   opts_chunk: 
@@ -23,7 +23,7 @@ knitr:
     fig.show: "hold"
     fig.asp: 0.618
     fig.retna: 3
-    fig.path: figs/
+    fig.path: images/
     out.width: 80%
 
 execute:
@@ -31,11 +31,9 @@ execute:
   warning: false
 
 website:
-  title: "Pingfan Hu"
+  title: "Leah Kaplan"
   description: >
-    If you are interested in EVs and renewable energy, please
-    check out my website. It contains projects and blogs that
-    well demonstrate these topics.
+    Personal website for Leah Kaplan.
   favicon: figs/favicon.ico
   back-to-top-navigation: true
   search:
@@ -47,19 +45,21 @@ website:
       - icon: person-badge
         href: about.qmd
         text: "About"
-      - icon: file-text
-        href: blogs.qmd
-        text: "Blogs"
       - icon: file-bar-graph
-        href: projects.qmd
-        text: "Projects"
+        href: research.qmd
+        text: "Research"     
+      - icon: file-text
+        href: blog.qmd
+        text: "Blog"
       - icon: person-circle
-        href: resume.pdf
-        text: "Resume"
+        href: CV.pdf
+        text: "CV"
     right:
       - icon: linkedin
-        href: https://www.linkedin.com/in/pingfan/
+        href: www.linkedin.com/in/leah-kaplan
+      - icon: twitter
+        href: https://twitter.com/kap_leah
       - icon: github
-        href: https://github.com/pingfan-hu
+        href: https://github.com/lkaplan25
       - icon: envelope-at
-        href: mailto:pingfan.hu@gwu.edu
+        href: mailto:lkaplan25@gmail.com

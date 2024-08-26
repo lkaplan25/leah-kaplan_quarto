@@ -1,27 +1,27 @@
 ---
-title: "Pingfan Hu"
-image: figs/profile.jpeg
+title: "Leah Kaplan"
+image: images/kaplan.png
 toc: false
 about:
   template: trestles
-  image-width: 15em
-  image-shape: round
-  links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/pingfan/
-    - icon: github
-      text: Github
-      href: https://github.com/pingfan-hu
-    - icon: envelope-at
-      text: Email
-      href: mailto:pingfan.hu@gwu.edu
+  image-width: 20em
+links:
+  - label: '<i class="fas fa-envelope"></i> Email'
+    url: "mailto:leahkaplan@gwu.edu"
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: "https://github.com/lkaplan25"
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: "https://twitter.com/kap_leah"
+  - label: '<i class="fab fa-linkedin"></i> LinkedIn'
+    url: "https://www.linkedin.com/in/leah-kaplan"
 ---
 
-## Welcome to my website!
+### Hi, I'm Leah.
 
-Hi! My name is Pingfan Hu. I am a PhD student and researcher at George Washington University in the Department of [Engineering Management and Systems Engineering](https://www.emse.seas.gwu.edu) with expertise in systems engineering and data analysis.
+*(pronounced lay-uh..yes, like the Star Wars character)*
 
-I am experienced in [R](https://www.r-project.org) and [Python](https://www.python.org) coding, and mainly use [RStudio](https://posit.co/download/rstudio-desktop/) and [VS Code](https://code.visualstudio.com) as working IDE.
+I want to understand how we can better leverage emerging transportation technologies for the benefit of, rather than detriment to, society.
 
-My current project is a [conjoint survey](https://jhelvy.github.io/smartcharging/) for BEV (Battery Electric Vehicle) Smart Charging adoption.
+I am an Associate in [Exponent's Vehicle Engieering Practice](https://www.exponent.com/expertise/vehicle-engineering), specializing in advanced driver assistance systems (ADAS) and autonomous vehicles.
+
+I hold a doctorate in Systems Engineering from the George Washington University, where I was a National Science Foundation Graduate Research Fellow and a fellow with GWU's [Co-Design of Trustworthy AI Systems NSF Research Traineeship Program](https://dtais.seas.gwu.edu/). My dissertation research examined several potential impacts of autonomous vehicles and used them as a case study of the potential societal effects of AI-enabled automation in the physical world.

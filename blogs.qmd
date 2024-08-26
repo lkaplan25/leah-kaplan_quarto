@@ -1,7 +1,7 @@
 ---
-title: "Blogs"
+title: "Blog"
 listing:
-  contents: blogs
+  contents: blog
   sort:
     - "date desc"
     - "title desc"
