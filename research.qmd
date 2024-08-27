@@ -1,5 +1,5 @@
 ---
-title: "research"
+title: "Research"
 description: |
   I study how to leverage emerging transportation technologies for the benefit of, rather than detriment to, society.
 editor: visual
