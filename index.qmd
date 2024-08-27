@@ -3,17 +3,27 @@ title: "Leah Kaplan"
 image: images/kaplan.png
 toc: false
 about:
-  template: trestles
-  image-width: 20em
-links:
-  - label: '<i class="fas fa-envelope"></i> Email'
-    url: "mailto:lkaplan25@gmail.com"
-  - label: '<i class="fab fa-github"></i> GitHub'
-    url: "https://github.com/lkaplan25"
-  - label: '<i class="fab fa-twitter"></i> Twitter'
-    url: "https://twitter.com/kap_leah"
-  - label: '<i class="fab fa-linkedin"></i> LinkedIn'
-    url: "https://www.linkedin.com/in/leah-kaplan"
+    template: trestles
+    image-width: 20em
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/leah-kaplan
+        - icon: twitter
+          text: Twitter
+          url: https://twitter.com/kap_leah
+        - icon: github
+          text: Github
+          url: https://github.com/lkaplan25
+        - icon: envelope-at
+          text: Email
+          url: mailto:lkaplan25@gmail.com
+        - text: ORCID
+          url: https://orcid.org/0000-0002-9710-2315
+        - text: Google Scholar
+          url: https://scholar.google.com/citations?user=wGX3puUAAAAJ&hl=en
+
+
 ---
 
 ### Hi, I'm Leah.
