@@ -5,124 +5,122 @@ description: |
 editor: visual
 ---
 
-
 <!-- Remove margin under list items -->
+
+```{=html}
 <style>
 d-article ol {
     margin-bottom: 5px;
 }
 </style>
-
+```
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
 </center>
 
-## Publications in Peer Reviewed Journals 
-1. **Kaplan, L.** & Helveston, J.P., (2024)"Undercutting Transit? Exploring potential competition between autonomous vehicles and public transportation in the U.S." Transportation Research Record. https://doi.org/10.1177/03611981231208976
-2. **Kaplan, L.**, Farooque, M., Sarewitz, D., & Tomblin, D. (2021). Designing Participatory Technology Assessments: A Reflexive Method for Advancing the Public Role in Science Policy Decision-making. Technological Forecasting and Social Change, 171, 120974. https://doi.org/10.1016/j.techfore.2021.120974
-3. Nelson, J. P., **Kaplan, L.**, & Tomblin, D. (2020). Assessing solar geoengineering research funders: Insights from two US public deliberations. The Anthropocene Review, 2053019620964845. https://doi.org/10.1177/2053019620964845
-4. Hernandez, E., MacNamee, S. E., **Kaplan, L. R.**, Lance, K., Garcia-Verdugo, H. D., Farhadi, D. S., Deer, C., Lee, S. W., & Oland, L. A. (2020). The astrocyte network in the ventral nerve cord neuropil of the Drosophila third-instar larva. Journal of Comparative Neurology, 528(10), 1683–1703. https://doi.org/10.1002/cne.24852
+## Publications in Peer Reviewed Journals
+
+1.  **Kaplan, L.** & Helveston, J.P., (2024)"Undercutting Transit? Exploring potential competition between autonomous vehicles and public transportation in the U.S." Transportation Research Record. https://doi.org/10.1177/03611981231208976
+2.  **Kaplan, L.**, Farooque, M., Sarewitz, D., & Tomblin, D. (2021). Designing Participatory Technology Assessments: A Reflexive Method for Advancing the Public Role in Science Policy Decision-making. Technological Forecasting and Social Change, 171, 120974. https://doi.org/10.1016/j.techfore.2021.120974
+3.  Nelson, J. P., **Kaplan, L.**, & Tomblin, D. (2020). Assessing solar geoengineering research funders: Insights from two US public deliberations. The Anthropocene Review, 2053019620964845. https://doi.org/10.1177/2053019620964845
+4.  Hernandez, E., MacNamee, S. E., **Kaplan, L. R.**, Lance, K., Garcia-Verdugo, H. D., Farhadi, D. S., Deer, C., Lee, S. W., & Oland, L. A. (2020). The astrocyte network in the ventral nerve cord neuropil of the Drosophila third-instar larva. Journal of Comparative Neurology, 528(10), 1683–1703. https://doi.org/10.1002/cne.24852
 
 <br>
 
 ## Working Papers & Papers Under Review
 
-
-1. Kaplan, L., Nurullaeva, L. & Helveston, J.P., "Modeling the Hidden Labor Costs of Autonomous Vehicle Taxi Services." *Under review*.
-2. Kaplan, L., Szajnfarber, Z., & Helveston, J.P., “Mapping the AI-enabled Transformation of Labor in Autonomous Vehicle Taxi Services.” *Working paper*
+1.  Kaplan, L., Nurullaeva, L. & Helveston, J.P., "Modeling the Hidden Labor Costs of Autonomous Vehicle Taxi Services." *Under review*.
+2.  Kaplan, L., Szajnfarber, Z., & Helveston, J.P., “Mapping the AI-enabled Transformation of Labor in Autonomous Vehicle Taxi Services.” *Working paper*
 
 <br>
 
 ## Book Chapters
 
-1. **Kaplan, L.**, Farooque, M., Sarewitz, D., & Tomblin, D. (2023). Designing Participatory Technology Assessments. *In The Rightful Place of Science: New Tools for Science Policy* (Vol II) (pp. 107-154). Consortium for Science, Policy & Outcomes.
-2. **Kaplan, L.**, Rupprecht, S., Grosso, M., Thomopoulos, N., Backhaus, W., Raposo, M. A., ... & Franco, D. (2023). Ensuring Strong Public Support for Automation in the Planning Process: From Engagement to Co-creation. *In Automated Road Transportation Symposium* (pp. 167-183). Springer, Cham. https://link.springer.com/book/10.1007/978-3-031-11112-9#page=169
+1.  **Kaplan, L.**, Farooque, M., Sarewitz, D., & Tomblin, D. (2023). Designing Participatory Technology Assessments. *In The Rightful Place of Science: New Tools for Science Policy* (Vol II) (pp. 107-154). Consortium for Science, Policy & Outcomes.
+2.  **Kaplan, L.**, Rupprecht, S., Grosso, M., Thomopoulos, N., Backhaus, W., Raposo, M. A., ... & Franco, D. (2023). Ensuring Strong Public Support for Automation in the Planning Process: From Engagement to Co-creation. *In Automated Road Transportation Symposium* (pp. 167-183). Springer, Cham. https://link.springer.com/book/10.1007/978-3-031-11112-9#page=169
 
 <br>
 
+## Dissertation
+
+Kaplan, L. (2024) *AI Behind the Wheel: Work, Economics, and Preferences in the Era of Autonomous Vehicles*. George Washington University. 
+
 ## Policy Memos, Reports, Articles for Non-Academic Audiences, and Other Publications
 
-1.	**Kaplan, L.**, Szajnfarber, Z., & Helveston, J. P. (2023, November). Driverless but not humanless– vehicle systems. *IISE Magazine*, 55(11). https://www.iise.org/isemagazine/details.aspx?id=54506
+1.  **Kaplan, L.**, Szajnfarber, Z., & Helveston, J. P. (2023, November). Driverless but not humanless– vehicle systems. *IISE Magazine*, 55(11). https://www.iise.org/isemagazine/details.aspx?id=54506
 
-2.	**Kaplan, L.**, Currier, E. O., Omar, M., & Tchoumie, O. (2023). Food for Thought: An Interactive Exercise in Ethical Decision-Making. *FASPE 2023 Journal*. https://www.faspe-ethics.org/2023-journal-food-for-thought/
+2.  **Kaplan, L.**, Currier, E. O., Omar, M., & Tchoumie, O. (2023). Food for Thought: An Interactive Exercise in Ethical Decision-Making. *FASPE 2023 Journal*. https://www.faspe-ethics.org/2023-journal-food-for-thought/
 
-3.	Doyle, S., **Kaplan, L.**, & Pan, E. (2023). Three Lessons from the Holocaust for Young Technologists. *FASPE 2023 Journal*. https://www.faspe-ethics.org/2023-journal-doyle-kaplan-pan/
+3.  Doyle, S., **Kaplan, L.**, & Pan, E. (2023). Three Lessons from the Holocaust for Young Technologists. *FASPE 2023 Journal*. https://www.faspe-ethics.org/2023-journal-doyle-kaplan-pan/
 
-4.	**Kaplan, L.**, Mulcare, S., and Pantha, S. (2021). Cool Roofs to Reduce Urban Heat in New Orleans. European Horizons Policy Competition. 
+4.  **Kaplan, L.**, Mulcare, S., and Pantha, S. (2021). Cool Roofs to Reduce Urban Heat in New Orleans. European Horizons Policy Competition.
 
-5.	Weller, N., Sullivan-Govani, M., Farooque, M., and **Kaplan, L.** (2020). Blinded by the Frontier. *Issues in Science and Technology*. https://issues.org/endless-frontier-act-and-public-values/
+5.  Weller, N., Sullivan-Govani, M., Farooque, M., and **Kaplan, L.** (2020). Blinded by the Frontier. *Issues in Science and Technology*. https://issues.org/endless-frontier-act-and-public-values/
 
-6.	**Kaplan, L.**, Nelson, J., Tomblin, D., Farooque, M., Lloyd, J., Neff, M., Bedsted, B., and Sarewitz, D., (2019). Exploring Democratic Governance of Geoengineering Research Through Public and Stakeholder Engagement. Consortium for Science, Policy & Outcomes.
-https://cspo.org/wp-content/uploads/2019/10/SRM_book_EPUB.pdf
+6.  **Kaplan, L.**, Nelson, J., Tomblin, D., Farooque, M., Lloyd, J., Neff, M., Bedsted, B., and Sarewitz, D., (2019). Exploring Democratic Governance of Geoengineering Research Through Public and Stakeholder Engagement. Consortium for Science, Policy & Outcomes. https://cspo.org/wp-content/uploads/2019/10/SRM_book_EPUB.pdf
 
-7.	**Kaplan, L.** (2019). Background materials for “Our Driverless Futures: Community Forums on Automated Mobility.” Consortium for Science, Policy & Outcomes.
-https://cspo.org/wp-content/uploads/2019/04/Background-Materials-for-Our-Driverless-Futures.pdf
+7.  **Kaplan, L.** (2019). Background materials for “Our Driverless Futures: Community Forums on Automated Mobility.” Consortium for Science, Policy & Outcomes. https://cspo.org/wp-content/uploads/2019/04/Background-Materials-for-Our-Driverless-Futures.pdf
 
-5.	**Kaplan, L.** (2019). Give STAA a Chance. As We Now Think. Consortium for Science, Policy & Outcomes. https://cspo.org/give-staa-a-chance/
+8.  **Kaplan, L.** (2019). Give STAA a Chance. As We Now Think. Consortium for Science, Policy & Outcomes. https://cspo.org/give-staa-a-chance/
 
-6.	Farooque, M., **Kaplan, L.**, Lloyd, J., and Quach, K. (2019). Boundary Practitioners Workshop Report for the Earthrise Alliance. Consortium for Science, Policy & Outcomes. https://earthrisealliance.org/s/FinalBoundarySpanningWorkshopReport021519.pdf
+9.  Farooque, M., **Kaplan, L.**, Lloyd, J., and Quach, K. (2019). Boundary Practitioners Workshop Report for the Earthrise Alliance. Consortium for Science, Policy & Outcomes. https://earthrisealliance.org/s/FinalBoundarySpanningWorkshopReport021519.pdf
 
 <br>
 
 ## Selected Presentations
-2022 | **Kaplan, L.** & Helveston, J.P., Undercutting Transit? Exploring potential competition between autonomous vehicles and public transportation in the U.S. Industry Studies Association (Oral)
 
-2021 | **Kaplan, L.**, Benefits for Whom? Considering Equity as a Design Goal for Autonomous Vehicle Development, Society for Philosophy and Technology Conference (Oral, Virtual)
+2022 \| **Kaplan, L.** & Helveston, J.P., Undercutting Transit? Exploring potential competition between autonomous vehicles and public transportation in the U.S. Industry Studies Association (Oral)
 
-2021 |	Brown, R., **Kaplan, L.**, Isaac, L., & Lanigan, T., Opportunities and Challenges for Testing Collaboration. Vermont AV-Xchange. (Oral, Virtual)
+2021 \| **Kaplan, L.**, Benefits for Whom? Considering Equity as a Design Goal for Autonomous Vehicle Development, Society for Philosophy and Technology Conference (Oral, Virtual)
 
-2019 |	**Kaplan, L.**, Mahmud Farooque, Kimberly Quach, and Jason Lloyd, Boundary Spanning at the Science Policy Interface: 
-Challenges and Opportunities, Dec. 2019; American Geophysical Union Annual Conference (eLightning)
+2021 \| Brown, R., **Kaplan, L.**, Isaac, L., & Lanigan, T., Opportunities and Challenges for Testing Collaboration. Vermont AV-Xchange. (Oral, Virtual)
 
-2019 |	**Kaplan, L.**, John Nelson, Our Driverless Futures – Informing Autonomous Vehicle Design and Deployment through Public 
-Deliberation. Oct. 2019. Phoenix Mobile and Emerging Tech Festival
+2019 \| **Kaplan, L.**, Mahmud Farooque, Kimberly Quach, and Jason Lloyd, Boundary Spanning at the Science Policy Interface: Challenges and Opportunities, Dec. 2019; American Geophysical Union Annual Conference (eLightning)
 
-2019 |	Sarewitz, D., **Leah Kaplan** and Mahmud Farooque, How can engaging public deliberations build bridges across the S&T enterprise?, June. 2019. National Science and Technology Council “Building Bridges Across the S&T Enterprise” Conference
+2019 \| **Kaplan, L.**, John Nelson, Our Driverless Futures – Informing Autonomous Vehicle Design and Deployment through Public Deliberation. Oct. 2019. Phoenix Mobile and Emerging Tech Festival
 
-2019 |	**Kaplan, L.**, Engaging Stakeholders in Future Change. Jun. 2019. The Foresight Sandbox – Workshop on Strategic Foresight
+2019 \| Sarewitz, D., **Leah Kaplan** and Mahmud Farooque, How can engaging public deliberations build bridges across the S&T enterprise?, June. 2019. National Science and Technology Council “Building Bridges Across the S&T Enterprise” Conference
 
-2019 |	**Kaplan, L.**, and David Tomblin, Why Public Engagement with Science and Technology. Mar. 2019. Workshop with American Association for the Advancement of Science (AAAS) Fellows
+2019 \| **Kaplan, L.**, Engaging Stakeholders in Future Change. Jun. 2019. The Foresight Sandbox – Workshop on Strategic Foresight
 
-2018 |	**Kaplan, L.**, Hassan A. Vafai, and Kevin E. Lansey. Sowing the seeds of understanding and interest: An example of university-sponsored incubation and collaboration for science diplomacy. Nov. 2018. Science Policy Symposium, Science and Education Policy Association
+2019 \| **Kaplan, L.**, and David Tomblin, Why Public Engagement with Science and Technology. Mar. 2019. Workshop with American Association for the Advancement of Science (AAAS) Fellows
 
+2018 \| **Kaplan, L.**, Hassan A. Vafai, and Kevin E. Lansey. Sowing the seeds of understanding and interest: An example of university-sponsored incubation and collaboration for science diplomacy. Nov. 2018. Science Policy Symposium, Science and Education Policy Association
 
 ## Fellowships & Awards
 
 ### Fellowships & Scholarships
 
-* 2023 | Design & Technology Fellow, Fellowships at Auschwitz for the Study of Professional Ethics
+-   2023 \| Design & Technology Fellow, Fellowships at Auschwitz for the Study of Professional Ethics
 
-* 2022 | Co-Designing Trustworthy AI Systems National Science Foundation Research Traineeship
+-   2022 \| Co-Designing Trustworthy AI Systems National Science Foundation Research Traineeship
 
-* 2020 | National Science Foundation Graduate Research Fellow
+-   2020 \| National Science Foundation Graduate Research Fellow
 
-* 2017 |	Chapman Scholar – awarded to 1 UA engineering student, department nominated and committee selected
+-   2017 \| Chapman Scholar – awarded to 1 UA engineering student, department nominated and committee selected
 
-* 2014 |	Flinn Scholar – merit based scholarship awarded to top 20 high school seniors in Arizona, valued at more than $115,000
+-   2014 \| Flinn Scholar – merit based scholarship awarded to top 20 high school seniors in Arizona, valued at more than \$115,000
 
 ### Awards
 
-* 2024 | Best Paper Award for the 6th Bridging Transportation Researchers Conference – “Modeling the Operational & Labor Costs of Autonomous Robotaxi Services”
+-   2024 \| Best Paper Award for the 6th Bridging Transportation Researchers Conference – “Modeling the Operational & Labor Costs of Autonomous Robotaxi Services”
 
-* 2024 | Outstanding Presentation – Technology, Data, and Policy Conference 2024
+-   2024 \| Outstanding Presentation – Technology, Data, and Policy Conference 2024
 
-* 2024 | People’s Choice – Northeastern Regional 3 Minute Thesis Competition 
+-   2024 \| People’s Choice – Northeastern Regional 3 Minute Thesis Competition
 
-* 2024 | 1st Place – George Washington University 3 Minute Thesis Competition
+-   2024 \| 1st Place – George Washington University 3 Minute Thesis Competition
 
-* 2023 | 1st Place – Public Interest Technology University Network Student Video Competition
+-   2023 \| 1st Place – Public Interest Technology University Network Student Video Competition
 
-* 2018 |	Freeman Medal – awarded to 2 graduating seniors (out of 6,000 graduates) from the University of Arizona
+-   2018 \| Freeman Medal – awarded to 2 graduating seniors (out of 6,000 graduates) from the University of Arizona
 
-* 2018 |	Outstanding Senior in Chemical Engineering, 2018 (out of 80 undergraduates)
+-   2018 \| Outstanding Senior in Chemical Engineering, 2018 (out of 80 undergraduates)
 
-* 2018 |	1st Place – Society of Women Engineers Undergraduate Rapid-Fire Research Presentation Competition
+-   2018 \| 1st Place – Society of Women Engineers Undergraduate Rapid-Fire Research Presentation Competition
 
-* 2018	| 2nd Place – Lockheed Martin Ethics in Engineering Case Competition	
+-   2018 \| 2nd Place – Lockheed Martin Ethics in Engineering Case Competition
 
-* 2016 |	The University of Arizona Honors College Outstanding Sophomore of the Year
-
-
-
+-   2016 \| The University of Arizona Honors College Outstanding Sophomore of the Year
